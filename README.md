@@ -34,10 +34,10 @@
 
 ## <a name="features"></a> :boom: Features
 
-    * reads csv files with data
-    * builds a bubble plot to show the relationship among city type (urban, suburban, rural), total number of drivers per city, total number of rides per city and the average fare per city
-    * builds pie charts to show the percent of total fares by city type, percent of total rides by city type, and the percent of total drivers by city type
-    * reports findings
+* reads csv files with data
+* builds a bubble plot to show the relationship among city type (urban, suburban, rural), total number of drivers per city, total number of rides per city and the average fare per city
+* builds pie charts to show the percent of total fares by city type, percent of total rides by city type, and the percent of total drivers by city type
+* reports findings
 
 
 ## <a name="developer"></a> :bust_in_silhouette: Developer
