@@ -28,7 +28,7 @@
 
 ## <a name="installation"></a> :dvd: Installation and Usage
 
-* Clone the Pyber_Ride_Sharing repository to your local computer.
+* Clone the Pyber-Ride-Sharing repository to your local computer.
 * View the files in Jupyter Notebook or an editor with a Jupyter Notebook extension.
 
 
@@ -49,4 +49,4 @@
 
 If you have any questions or comments, feel free to message me on [LinkedIn](https://www.linkedin.com/in/maria-wong/).
 
- ### Thanks for checking out Pyber_Ride_Sharing!
+ ### Thanks for checking out Pyber-Ride-Sharing!
