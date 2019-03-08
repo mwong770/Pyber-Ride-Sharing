@@ -1,4 +1,4 @@
-# Pyber_Ride_Sharing
+# Pyber-Ride-Sharing
 
 * Analyzes a ride sharing company's recordset of historic rides and active drivers
 
